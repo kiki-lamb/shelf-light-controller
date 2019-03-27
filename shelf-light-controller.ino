@@ -1,4 +1,4 @@
-// Meant for deployment on Tiny85, but compiles with additional serial debug info on 328P for development use.
+// Meant for deployment on Tiny85 @ 1 Mhz, but compiles with additional serial debug info on 328P for development use.
 
 //================================================================================
 
